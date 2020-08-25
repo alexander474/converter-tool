@@ -1,4 +1,4 @@
-# # PG3400 Home Exam 2019 (Programming in C for Linux)
+# PG3400 Home Exam 2019 (Programming in C for Linux)
 This project builds a tool to be used for converting between different 
 kinds of "encodings".
 
